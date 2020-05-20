@@ -1,10 +1,6 @@
 # Objetivos de la repositorio
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+Este proyecto es una práctica de GitHub
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-### Nota 2
+### Nota 1
 Repositorio de práctica
